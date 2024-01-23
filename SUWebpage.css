@@ -1,0 +1,11 @@
+.container{
+    height: auto;
+    width: auto;
+    background-color: aqua;
+}
+.colour{
+    color: aliceblue;
+}
+.text{
+    text-align: center;
+}
